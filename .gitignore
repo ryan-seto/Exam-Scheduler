@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+
+# Environment and sensitive files
+.env
+.env.local
+.env.*.local
+*.local
+
+# Credentials - NEVER commit these
+Google_OAuth_Creds.txt
+*credentials*.txt
+*secret*.txt
+*.pem
+*.key
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+nul
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+venv/
+.venv/
+
+# Testing
+coverage/
+.nyc_output/

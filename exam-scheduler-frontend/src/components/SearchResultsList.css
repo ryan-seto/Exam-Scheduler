@@ -1,0 +1,16 @@
+.results-list {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    position: absolute;
+    z-index: 1; /* Ensure it overlaps other elements */
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0px 0px 8px #ddd;
+    border-radius: 10px;
+    margin-top: 1rem;
+    max-height: 250px;
+    overflow-y: scroll;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 600;
+}

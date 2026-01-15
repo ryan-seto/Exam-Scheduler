@@ -1,0 +1,184 @@
+.nav-container {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  background-color: rgb(255, 255, 255);
+  padding: 15px 50px;
+  border-radius: 50px;
+}
+
+/* logo and title */
+.logo {
+  width: 75px;
+  height: 75px;
+}
+
+.title-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 3.5rem;
+  font-weight: 1;
+  color: rgb(0, 0, 0);
+  letter-spacing: 1px;
+  font-family: 'Overpass', sans-serif;
+  padding: 0 0 0 75px;
+  /* hacky fix for weird vetical alignment */
+  margin-top: 10px;  
+}
+
+.circle-divider {
+  width: 10px; /* Width of the circle */
+  height: 10px; /* Height of the circle */
+  background-color: rgb(0, 0, 0); /* Color of the circle */
+  border-radius: 50%; /* Makes the div a circle */
+  margin: 0.5rem 0 0 3rem; /* Space around the circle */
+}
+
+.tagline {
+  font-size: 1.5rem;
+  color: rgb(0, 0, 0);
+  letter-spacing: 1px;
+  font-family: 'Overpass', sans-serif;
+  font-style: italic;
+  margin: 0.5rem 0 0 3rem;
+}
+
+.loader {
+  display: flex;
+  align-items: center;
+  margin: 0 -25px 0 50px;
+}
+
+.bar {
+  display: inline-block;
+  width: 3px;
+  height: 20px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 10px;
+  animation: scale-up4 3s linear infinite;
+}
+
+.bar:nth-child(2) {
+  height: 35px;
+  margin: 0 5px;
+  animation-delay: .25s;
+}
+
+.bar:nth-child(3) {
+  animation-delay: .5s;
+}
+
+@keyframes scale-up4 {
+  20% {
+    background-color: #ffff;
+    transform: scaleY(1.5);
+  }
+
+  40% {
+    transform: scaleY(1);
+  }
+}
+
+/* nav buttons */
+.nav-items {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  padding-right: 25px;
+}
+
+.nav-icon {
+  display: flex;
+  align-items: center;
+  width: 55px;
+  height: 55px;
+  overflow: hidden;
+  background-color: rgb(252, 252, 252);
+  padding: 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.5s;
+  object-fit: cover;
+  position: relative;
+}
+
+.nav-icon img {
+  width: 100%;
+  /* Ensure image fits within the container */
+  height: auto;
+  /* Maintain aspect ratio */
+}
+
+.nav-icon:hover {
+  background-color: rgb(227, 223, 223);
+}
+
+.nav-icon-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.nav-icon-button .nav-icon {
+  display: block;
+}
+
+/* Tooltip styling */
+.nav-icon::after {
+  content: attr(data-tooltip); /* Use the data-tooltip attribute for the text */
+  position: absolute;
+  bottom: 0%; /* Position above the icon */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: black;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  border-radius: 5px;
+  white-space: nowrap;
+  opacity: 1;
+  visibility: hidden;
+  transition: opacity 0.3s;
+}
+
+/* Show tooltip on hover */
+.nav-icon:hover::after {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Logout button */
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  font-family: 'overpass', sans-serif;
+  font-weight: 600;
+}
+
+.user-icon {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.logout-button {
+  cursor: pointer;
+  border-radius: 10%;
+  border: 1.5px solid black;
+  padding: 3px;
+  font-family: 'Overpass', sans-serif;
+  margin: 0 0 0 1rem;
+}
+
+.logout-button:hover {
+  background-color: rgb(227, 223, 223);
+}

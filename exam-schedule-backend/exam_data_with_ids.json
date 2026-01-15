@@ -1,0 +1,4942 @@
+[
+  {
+    "Exam": "ACC 606",
+    "Section(s)": "001002",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 1
+  },
+  {
+    "Exam": "ACTSC 221",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 6",
+    "id": 2
+  },
+  {
+    "Exam": "ACTSC 231",
+    "Section(s)": "001002",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "STC 1012",
+    "id": 3
+  },
+  {
+    "Exam": "ACTSC 232",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4061",
+    "id": 4
+  },
+  {
+    "Exam": "ACTSC 331",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4045",
+    "id": 5
+  },
+  {
+    "Exam": "ACTSC 363",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4063",
+    "id": 6
+  },
+  {
+    "Exam": "ACTSC 372",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 7
+  },
+  {
+    "Exam": "ACTSC 431",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4063",
+    "id": 8
+  },
+  {
+    "Exam": "ACTSC 432",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 6",
+    "id": 9
+  },
+  {
+    "Exam": "ACTSC 631",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 10
+  },
+  {
+    "Exam": "ACTSC 632",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 11
+  },
+  {
+    "Exam": "ACTSC 633",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 12
+  },
+  {
+    "Exam": "ACTSC 634",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 13
+  },
+  {
+    "Exam": "ACTSC 635",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 14
+  },
+  {
+    "Exam": "ACTSC 900",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 15
+  },
+  {
+    "Exam": "AE 105",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 1",
+    "id": 16
+  },
+  {
+    "Exam": "AE 121",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "CPH 1325, 1346, E2 1792",
+    "id": 17
+  },
+  {
+    "Exam": "AE 123",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "DC 1350",
+    "id": 18
+  },
+  {
+    "Exam": "AE 279",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "ARC 1113, 3003",
+    "id": 19
+  },
+  {
+    "Exam": "AE 303",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "ARC 1113, 3003",
+    "id": 20
+  },
+  {
+    "Exam": "AE 491",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 2, 4",
+    "id": 21
+  },
+  {
+    "Exam": "AE 572",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "E5 3101, 3102",
+    "id": 22
+  },
+  {
+    "Exam": "AFM 113",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4063",
+    "id": 23
+  },
+  {
+    "Exam": "AFM 121",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 0010",
+    "id": 24
+  },
+  {
+    "Exam": "AFM 182",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4064",
+    "id": 25
+  },
+  {
+    "Exam": "AFM 241",
+    "Section(s)": "001-005",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 1, 3, 5",
+    "id": 26
+  },
+  {
+    "Exam": "AFM 244",
+    "Section(s)": "001-004",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "5:30 PM",
+    "Location": "Online-See instructor for exam details",
+    "id": 27
+  },
+  {
+    "Exam": "AFM 273",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "STC 0010",
+    "id": 28
+  },
+  {
+    "Exam": "AFM 274",
+    "Section(s)": "001-006",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:00 PM",
+    "Location": "STC 1012, 0010, 0020",
+    "id": 29
+  },
+  {
+    "Exam": "AFM 275",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "7:30 PM",
+    "Finish": "9:00 PM",
+    "Location": "STC 0010",
+    "id": 30
+  },
+  {
+    "Exam": "AFM 291",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 1, 2, 3, 4",
+    "id": 31
+  },
+  {
+    "Exam": "AFM 322",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 6",
+    "id": 32
+  },
+  {
+    "Exam": "AFM 333",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "Online-See instructor for exam details",
+    "id": 33
+  },
+  {
+    "Exam": "AFM 362",
+    "Section(s)": "001-006",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 1, 2, 3, 4",
+    "id": 34
+  },
+  {
+    "Exam": "AFM 391",
+    "Section(s)": "001-008",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 1, 2, 3, 4",
+    "id": 35
+  },
+  {
+    "Exam": "AFM 433",
+    "Section(s)": "001-003",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "DC 1350",
+    "id": 36
+  },
+  {
+    "Exam": "AFM 480",
+    "Section(s)": "001-003",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 7",
+    "id": 37
+  },
+  {
+    "Exam": "AMATH 231",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4045",
+    "id": 38
+  },
+  {
+    "Exam": "AMATH 242",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 16, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "M3 1006",
+    "id": 39
+  },
+  {
+    "Exam": "AMATH 250",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 1, 3",
+    "id": 40
+  },
+  {
+    "Exam": "AMATH 250",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 41
+  },
+  {
+    "Exam": "AMATH 332",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 5",
+    "id": 42
+  },
+  {
+    "Exam": "AMATH 351",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 6",
+    "id": 43
+  },
+  {
+    "Exam": "AMATH 353",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4059",
+    "id": 44
+  },
+  {
+    "Exam": "ARBUS 301",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "Online-See instructor for exam details",
+    "id": 45
+  },
+  {
+    "Exam": "AVIA 101",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4061",
+    "id": 46
+  },
+  {
+    "Exam": "AVIA 204",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4059",
+    "id": 47
+  },
+  {
+    "Exam": "AVIA 306",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4045",
+    "id": 48
+  },
+  {
+    "Exam": "BE 601",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 49
+  },
+  {
+    "Exam": "BIOL 239",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "STC 1012",
+    "id": 50
+  },
+  {
+    "Exam": "BIOL 240",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 51
+  },
+  {
+    "Exam": "BIOL 240L",
+    "Section(s)": "001-003",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "10:00 AM",
+    "Location": "STC 0020",
+    "id": 52
+  },
+  {
+    "Exam": "BIOL 241",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "DC 1350",
+    "id": 53
+  },
+  {
+    "Exam": "BIOL 273",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 54
+  },
+  {
+    "Exam": "BIOL 308",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 5, 6",
+    "id": 55
+  },
+  {
+    "Exam": "BIOL 309",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "DC 1350",
+    "id": 56
+  },
+  {
+    "Exam": "BIOL 312",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4061",
+    "id": 57
+  },
+  {
+    "Exam": "BIOL 349W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 58
+  },
+  {
+    "Exam": "BIOL 359",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 59
+  },
+  {
+    "Exam": "BIOL 462",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 6",
+    "id": 60
+  },
+  {
+    "Exam": "BME 213",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E5 6006, 6008",
+    "id": 61
+  },
+  {
+    "Exam": "BME 252",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "E5 6006, 6008",
+    "id": 62
+  },
+  {
+    "Exam": "BME 294",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 6006, 6008",
+    "id": 63
+  },
+  {
+    "Exam": "BUS 111W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 64
+  },
+  {
+    "Exam": "BUS 121W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 65
+  },
+  {
+    "Exam": "BUS 127W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 66
+  },
+  {
+    "Exam": "BUS 231W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 67
+  },
+  {
+    "Exam": "BUS 233W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 68
+  },
+  {
+    "Exam": "BUS 247W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 69
+  },
+  {
+    "Exam": "BUS 275W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 70
+  },
+  {
+    "Exam": "BUS 283W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 71
+  },
+  {
+    "Exam": "BUS 288W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 72
+  },
+  {
+    "Exam": "BUS 321W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 73
+  },
+  {
+    "Exam": "BUS 352W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 74
+  },
+  {
+    "Exam": "BUS 353W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 75
+  },
+  {
+    "Exam": "BUS 354W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 76
+  },
+  {
+    "Exam": "BUS 357W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 77
+  },
+  {
+    "Exam": "BUS 362W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 78
+  },
+  {
+    "Exam": "BUS 375W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 79
+  },
+  {
+    "Exam": "BUS 387W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 80
+  },
+  {
+    "Exam": "BUS 393W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 81
+  },
+  {
+    "Exam": "BUS 397W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 82
+  },
+  {
+    "Exam": "BUS 398W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 83
+  },
+  {
+    "Exam": "BUS 400W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 84
+  },
+  {
+    "Exam": "BUS 408W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 85
+  },
+  {
+    "Exam": "BUS 412W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 86
+  },
+  {
+    "Exam": "BUS 413W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 87
+  },
+  {
+    "Exam": "BUS 415W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 88
+  },
+  {
+    "Exam": "BUS 419W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 89
+  },
+  {
+    "Exam": "BUS 422W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 90
+  },
+  {
+    "Exam": "BUS 423W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 91
+  },
+  {
+    "Exam": "BUS 430W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 92
+  },
+  {
+    "Exam": "BUS 431W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 93
+  },
+  {
+    "Exam": "BUS 432W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 94
+  },
+  {
+    "Exam": "BUS 433W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 95
+  },
+  {
+    "Exam": "BUS 442W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 96
+  },
+  {
+    "Exam": "BUS 445W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 97
+  },
+  {
+    "Exam": "BUS 449W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 98
+  },
+  {
+    "Exam": "BUS 452W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 99
+  },
+  {
+    "Exam": "BUS 455W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 100
+  },
+  {
+    "Exam": "BUS 460W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 101
+  },
+  {
+    "Exam": "BUS 463W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 102
+  },
+  {
+    "Exam": "BUS 466W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 103
+  },
+  {
+    "Exam": "BUS 467W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 104
+  },
+  {
+    "Exam": "BUS 470W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 105
+  },
+  {
+    "Exam": "BUS 472W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 106
+  },
+  {
+    "Exam": "BUS 473W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 107
+  },
+  {
+    "Exam": "BUS 474W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 108
+  },
+  {
+    "Exam": "BUS 477W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 109
+  },
+  {
+    "Exam": "BUS 479W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 110
+  },
+  {
+    "Exam": "BUS 480W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 111
+  },
+  {
+    "Exam": "BUS 481W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 112
+  },
+  {
+    "Exam": "BUS 485W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 113
+  },
+  {
+    "Exam": "BUS 486W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 114
+  },
+  {
+    "Exam": "BUS 487W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 115
+  },
+  {
+    "Exam": "BUS 490W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 116
+  },
+  {
+    "Exam": "BUS 491W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 117
+  },
+  {
+    "Exam": "BUS 493W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 118
+  },
+  {
+    "Exam": "BUS 493WW",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 119
+  },
+  {
+    "Exam": "BUS 493ZW",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 120
+  },
+  {
+    "Exam": "CC 205W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 121
+  },
+  {
+    "Exam": "CHE 101",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "STC 0010",
+    "id": 122
+  },
+  {
+    "Exam": "CHE 102",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4064",
+    "id": 123
+  },
+  {
+    "Exam": "CHE 102",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 124
+  },
+  {
+    "Exam": "CHE 161",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "STC 0020",
+    "id": 125
+  },
+  {
+    "Exam": "CHE 211",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "E6 2024, 4022",
+    "id": 126
+  },
+  {
+    "Exam": "CHE 225",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E2 1792",
+    "id": 127
+  },
+  {
+    "Exam": "CHE 231",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "E6 2024, 4022",
+    "id": 128
+  },
+  {
+    "Exam": "CHE 241",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 8",
+    "id": 129
+  },
+  {
+    "Exam": "CHE 312",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4059",
+    "id": 130
+  },
+  {
+    "Exam": "CHE 314",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E2 1792",
+    "id": 131
+  },
+  {
+    "Exam": "CHE 322",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E2 1792",
+    "id": 132
+  },
+  {
+    "Exam": "CHE 330",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4045",
+    "id": 133
+  },
+  {
+    "Exam": "CHE 612",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E6 2024",
+    "id": 134
+  },
+  {
+    "Exam": "CHE 641",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 135
+  },
+  {
+    "Exam": "CHE 663",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 136
+  },
+  {
+    "Exam": "CHEM 120",
+    "Section(s)": "081",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Online-See instructor for exam details",
+    "id": 137
+  },
+  {
+    "Exam": "CHEM 123",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "PAC 1, 3, 5",
+    "id": 138
+  },
+  {
+    "Exam": "CHEM 212",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 139
+  },
+  {
+    "Exam": "CHEM 221",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "7:30 PM",
+    "Finish": "9:00 PM",
+    "Location": "MC 4061",
+    "id": 140
+  },
+  {
+    "Exam": "CHEM 233",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "STC 0010",
+    "id": 141
+  },
+  {
+    "Exam": "CHEM 237",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 1, 3",
+    "id": 142
+  },
+  {
+    "Exam": "CHEM 237L",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "STC 0020",
+    "id": 143
+  },
+  {
+    "Exam": "CHEM 254",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "DC 1350",
+    "id": 144
+  },
+  {
+    "Exam": "CHEM 264",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "STC 0010",
+    "id": 145
+  },
+  {
+    "Exam": "CHEM 265",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 0020",
+    "id": 146
+  },
+  {
+    "Exam": "CHEM 266",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 147
+  },
+  {
+    "Exam": "CHEM 750",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 148
+  },
+  {
+    "Exam": "CHINA 120R",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4064",
+    "id": 149
+  },
+  {
+    "Exam": "CHINA 201R",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4064",
+    "id": 150
+  },
+  {
+    "Exam": "CHINA 301R",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4064",
+    "id": 151
+  },
+  {
+    "Exam": "CIVE 105",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4061",
+    "id": 152
+  },
+  {
+    "Exam": "CIVE 205",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1350",
+    "id": 153
+  },
+  {
+    "Exam": "CIVE 222",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1350",
+    "id": 154
+  },
+  {
+    "Exam": "CIVE 280",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1350",
+    "id": 155
+  },
+  {
+    "Exam": "CIVE 413",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "RCH 301, 302",
+    "id": 156
+  },
+  {
+    "Exam": "CIVE 414",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 2, 4",
+    "id": 157
+  },
+  {
+    "Exam": "CIVE 491",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 2, 4",
+    "id": 158
+  },
+  {
+    "Exam": "CIVE 505",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4064",
+    "id": 159
+  },
+  {
+    "Exam": "CIVE 596",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 2",
+    "id": 160
+  },
+  {
+    "Exam": "CIVE 604",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 161
+  },
+  {
+    "Exam": "CIVE 700",
+    "Section(s)": "002",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "E5 3101, 3102",
+    "id": 162
+  },
+  {
+    "Exam": "CIVE 711",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 163
+  },
+  {
+    "Exam": "CO 250",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 7, 8",
+    "id": 164
+  },
+  {
+    "Exam": "CO 250",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 165
+  },
+  {
+    "Exam": "CO 327",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4060",
+    "id": 166
+  },
+  {
+    "Exam": "CO 342",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 5",
+    "id": 167
+  },
+  {
+    "Exam": "CO 351",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 6",
+    "id": 168
+  },
+  {
+    "Exam": "CO 454",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4061",
+    "id": 169
+  },
+  {
+    "Exam": "CO 471",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4064",
+    "id": 170
+  },
+  {
+    "Exam": "CO 671",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4064",
+    "id": 171
+  },
+  {
+    "Exam": "COMM 101",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "MC 4058",
+    "id": 172
+  },
+  {
+    "Exam": "COMM 321",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 0020",
+    "id": 173
+  },
+  {
+    "Exam": "CS 100",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 5",
+    "id": 174
+  },
+  {
+    "Exam": "CS 115",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 175
+  },
+  {
+    "Exam": "CS 116",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 176
+  },
+  {
+    "Exam": "CS 136",
+    "Section(s)": "001002",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 7, 8",
+    "id": 177
+  },
+  {
+    "Exam": "CS 230",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 2, 4",
+    "id": 178
+  },
+  {
+    "Exam": "CS 240",
+    "Section(s)": "001-005",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "PAC 1, 2, 3, 4, 5",
+    "id": 179
+  },
+  {
+    "Exam": "CS 241",
+    "Section(s)": "001-003",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 1, 3, 5",
+    "id": 180
+  },
+  {
+    "Exam": "CS 245",
+    "Section(s)": "001-003",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 1012",
+    "id": 181
+  },
+  {
+    "Exam": "CS 246",
+    "Section(s)": "001-003",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 1, 3, 5",
+    "id": 182
+  },
+  {
+    "Exam": "CS 247",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 16, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1351",
+    "id": 183
+  },
+  {
+    "Exam": "CS 251",
+    "Section(s)": "001-003",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 6, 7, 8",
+    "id": 184
+  },
+  {
+    "Exam": "CS 330",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "PAC 7, 8",
+    "id": 185
+  },
+  {
+    "Exam": "CS 338",
+    "Section(s)": "001002",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "M3 1006",
+    "id": 186
+  },
+  {
+    "Exam": "CS 341",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 16, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "M3 1006",
+    "id": 187
+  },
+  {
+    "Exam": "CS 348",
+    "Section(s)": "001004",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4061",
+    "id": 188
+  },
+  {
+    "Exam": "CS 348",
+    "Section(s)": "002003",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "M3 1006",
+    "id": 189
+  },
+  {
+    "Exam": "CS 349",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "DC 1350",
+    "id": 190
+  },
+  {
+    "Exam": "CS 350",
+    "Section(s)": "001002",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "M3 1006",
+    "id": 191
+  },
+  {
+    "Exam": "CS 360",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 8",
+    "id": 192
+  },
+  {
+    "Exam": "CS 370",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "M3 1006",
+    "id": 193
+  },
+  {
+    "Exam": "CS 371",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 16, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "M3 1006",
+    "id": 194
+  },
+  {
+    "Exam": "CS 445",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4061",
+    "id": 195
+  },
+  {
+    "Exam": "CS 446",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 7, 8",
+    "id": 196
+  },
+  {
+    "Exam": "CS 456",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "M3 1006",
+    "id": 197
+  },
+  {
+    "Exam": "CS 475",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 0040",
+    "id": 198
+  },
+  {
+    "Exam": "CS 486",
+    "Section(s)": "001-003",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "STC 1012",
+    "id": 199
+  },
+  {
+    "Exam": "CS 490",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "MC 4061",
+    "id": 200
+  },
+  {
+    "Exam": "CS 646",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 7, 8",
+    "id": 201
+  },
+  {
+    "Exam": "CS 656",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "M3 1006",
+    "id": 202
+  },
+  {
+    "Exam": "CS 675",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 0040",
+    "id": 203
+  },
+  {
+    "Exam": "CS 686",
+    "Section(s)": "001-003",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "STC 1012",
+    "id": 204
+  },
+  {
+    "Exam": "CS 762",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 205
+  },
+  {
+    "Exam": "CULT 205W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 206
+  },
+  {
+    "Exam": "DUTCH 101",
+    "Section(s)": "081",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "Online-See instructor for exam details",
+    "id": 207
+  },
+  {
+    "Exam": "DUTCH 102",
+    "Section(s)": "081",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "Online-See instructor for exam details",
+    "id": 208
+  },
+  {
+    "Exam": "EARTH 123",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Online-See instructor for exam details",
+    "id": 209
+  },
+  {
+    "Exam": "EARTH 221",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4059",
+    "id": 210
+  },
+  {
+    "Exam": "EARTH 232",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4063",
+    "id": 211
+  },
+  {
+    "Exam": "EARTH 444",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 6",
+    "id": 212
+  },
+  {
+    "Exam": "EARTH 458",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 213
+  },
+  {
+    "Exam": "ECE 106",
+    "Section(s)": "001002",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 1, 3, 5",
+    "id": 214
+  },
+  {
+    "Exam": "ECE 108",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 16, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 1012, 0010",
+    "id": 215
+  },
+  {
+    "Exam": "ECE 124",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 1, 3, 5",
+    "id": 216
+  },
+  {
+    "Exam": "ECE 140",
+    "Section(s)": "001002",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 1, 3, 5",
+    "id": 217
+  },
+  {
+    "Exam": "ECE 192",
+    "Section(s)": "001-003",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 1, 2, 3, 4",
+    "id": 218
+  },
+  {
+    "Exam": "ECE 203",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 3, 5",
+    "id": 219
+  },
+  {
+    "Exam": "ECE 206",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4045",
+    "id": 220
+  },
+  {
+    "Exam": "ECE 207",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 2, 4",
+    "id": 221
+  },
+  {
+    "Exam": "ECE 208",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 222
+  },
+  {
+    "Exam": "ECE 224",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 2, 4",
+    "id": 223
+  },
+  {
+    "Exam": "ECE 231",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4061",
+    "id": 224
+  },
+  {
+    "Exam": "ECE 252",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "DC 1350",
+    "id": 225
+  },
+  {
+    "Exam": "ECE 260",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "MC 4021",
+    "id": 226
+  },
+  {
+    "Exam": "ECE 318",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "PAC 2, 4, 6",
+    "id": 227
+  },
+  {
+    "Exam": "ECE 327",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 1012",
+    "id": 228
+  },
+  {
+    "Exam": "ECE 340",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4045",
+    "id": 229
+  },
+  {
+    "Exam": "ECE 350",
+    "Section(s)": "001002",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 7, 8",
+    "id": 230
+  },
+  {
+    "Exam": "ECE 380",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "DC 1350",
+    "id": 231
+  },
+  {
+    "Exam": "ECE 380",
+    "Section(s)": "002",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "10:30 AM",
+    "Location": "M3 1006",
+    "id": 232
+  },
+  {
+    "Exam": "ECE 414",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4042",
+    "id": 233
+  },
+  {
+    "Exam": "ECE 432",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC UPPER 10",
+    "id": 234
+  },
+  {
+    "Exam": "ECE 433",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "RCH 110, 112",
+    "id": 235
+  },
+  {
+    "Exam": "ECE 445",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4061",
+    "id": 236
+  },
+  {
+    "Exam": "ECE 452",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 7, 8",
+    "id": 237
+  },
+  {
+    "Exam": "ECE 454",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "DC 1350",
+    "id": 238
+  },
+  {
+    "Exam": "ECE 457A",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "M3 1006",
+    "id": 239
+  },
+  {
+    "Exam": "ECE 457C",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 5",
+    "id": 240
+  },
+  {
+    "Exam": "ECE 458",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 0010",
+    "id": 241
+  },
+  {
+    "Exam": "ECE 462",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4063",
+    "id": 242
+  },
+  {
+    "Exam": "ECE 463",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "RCH 301",
+    "id": 243
+  },
+  {
+    "Exam": "ECE 481",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:00 PM",
+    "Location": "PAC 7",
+    "id": 244
+  },
+  {
+    "Exam": "ECE 493",
+    "Section(s)": "002",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Online-See instructor for exam details",
+    "id": 245
+  },
+  {
+    "Exam": "ECE 493",
+    "Section(s)": "003",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "RCH 302",
+    "id": 246
+  },
+  {
+    "Exam": "ECE 608",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 8",
+    "id": 247
+  },
+  {
+    "Exam": "ECE 614",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4042",
+    "id": 248
+  },
+  {
+    "Exam": "ECE 632",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "RCH 306",
+    "id": 249
+  },
+  {
+    "Exam": "ECE 653",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4045",
+    "id": 250
+  },
+  {
+    "Exam": "ECE 657",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "M3 1006",
+    "id": 251
+  },
+  {
+    "Exam": "ECE 659",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "RCH 302",
+    "id": 252
+  },
+  {
+    "Exam": "ECE 6605PD",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 253
+  },
+  {
+    "Exam": "ECE 6608PD",
+    "Section(s)": "001",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 254
+  },
+  {
+    "Exam": "ECE 663",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "RCH 301",
+    "id": 255
+  },
+  {
+    "Exam": "ECE 700",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4063",
+    "id": 256
+  },
+  {
+    "Exam": "ECE 730",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "RCH 110, 112",
+    "id": 257
+  },
+  {
+    "Exam": "ECE 750",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 0010",
+    "id": 258
+  },
+  {
+    "Exam": "ECE 750",
+    "Section(s)": "002",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4064",
+    "id": 259
+  },
+  {
+    "Exam": "ECE 765",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4041",
+    "id": 260
+  },
+  {
+    "Exam": "ECON 101",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "STC 0010",
+    "id": 261
+  },
+  {
+    "Exam": "ECON 101",
+    "Section(s)": "081",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "Online-See instructor for exam details",
+    "id": 262
+  },
+  {
+    "Exam": "ECON 102",
+    "Section(s)": "081",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Online-See instructor for exam details",
+    "id": 263
+  },
+  {
+    "Exam": "ECON 102",
+    "Section(s)": "082083",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Online-See instructor for exam details",
+    "id": 264
+  },
+  {
+    "Exam": "ECON 120W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 265
+  },
+  {
+    "Exam": "ECON 140W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 266
+  },
+  {
+    "Exam": "ECON 201",
+    "Section(s)": "001002",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "M3 1006",
+    "id": 267
+  },
+  {
+    "Exam": "ECON 206",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "M3 1006",
+    "id": 268
+  },
+  {
+    "Exam": "ECON 207W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 269
+  },
+  {
+    "Exam": "ECON 211",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 5",
+    "id": 270
+  },
+  {
+    "Exam": "ECON 221",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 7",
+    "id": 271
+  },
+  {
+    "Exam": "ECON 223W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 272
+  },
+  {
+    "Exam": "ECON 229W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 273
+  },
+  {
+    "Exam": "ECON 231",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4061",
+    "id": 274
+  },
+  {
+    "Exam": "ECON 238W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 275
+  },
+  {
+    "Exam": "ECON 239W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 276
+  },
+  {
+    "Exam": "ECON 248W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 277
+  },
+  {
+    "Exam": "ECON 249W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 278
+  },
+  {
+    "Exam": "ECON 250W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 279
+  },
+  {
+    "Exam": "ECON 255",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC UPPER 9",
+    "id": 280
+  },
+  {
+    "Exam": "ECON 260W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 281
+  },
+  {
+    "Exam": "ECON 270W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 282
+  },
+  {
+    "Exam": "ECON 290",
+    "Section(s)": "001002",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 283
+  },
+  {
+    "Exam": "ECON 295W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 284
+  },
+  {
+    "Exam": "ECON 306",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4040",
+    "id": 285
+  },
+  {
+    "Exam": "ECON 322",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 4",
+    "id": 286
+  },
+  {
+    "Exam": "ECON 370W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 287
+  },
+  {
+    "Exam": "ECON 371",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "DC 1351",
+    "id": 288
+  },
+  {
+    "Exam": "ECON 395W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 289
+  },
+  {
+    "Exam": "ECON 407",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4060",
+    "id": 290
+  },
+  {
+    "Exam": "ECON 457",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4064",
+    "id": 291
+  },
+  {
+    "Exam": "EDMI 101W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 292
+  },
+  {
+    "Exam": "EDMI 202W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 293
+  },
+  {
+    "Exam": "EDMI 203W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 294
+  },
+  {
+    "Exam": "ENGL 101B",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Online-See instructor for exam details",
+    "id": 295
+  },
+  {
+    "Exam": "ENGL 309C",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 296
+  },
+  {
+    "Exam": "ENGL 362",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 297
+  },
+  {
+    "Exam": "ENTR 200W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 298
+  },
+  {
+    "Exam": "ENVE 121",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "CPH 1325, 1346, E2 1792",
+    "id": 299
+  },
+  {
+    "Exam": "ENVE 123",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "STC 0020",
+    "id": 300
+  },
+  {
+    "Exam": "ENVE 375",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 1",
+    "id": 301
+  },
+  {
+    "Exam": "ENVS 110W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 302
+  },
+  {
+    "Exam": "ENVS 195",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "DC 1350",
+    "id": 303
+  },
+  {
+    "Exam": "ENVS 200",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 2",
+    "id": 304
+  },
+  {
+    "Exam": "ENVS 274W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 305
+  },
+  {
+    "Exam": "ENVS 295W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 306
+  },
+  {
+    "Exam": "FILM 102W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 307
+  },
+  {
+    "Exam": "FR 192A",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 308
+  },
+  {
+    "Exam": "FR 192B",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 309
+  },
+  {
+    "Exam": "FR 251",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 310
+  },
+  {
+    "Exam": "FR 252",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 311
+  },
+  {
+    "Exam": "FR 297",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 312
+  },
+  {
+    "Exam": "GC 280SW",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 313
+  },
+  {
+    "Exam": "GENE 101",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "RCH 306",
+    "id": 314
+  },
+  {
+    "Exam": "GEOE 121",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "CPH 1325, 1346, E2 1792",
+    "id": 315
+  },
+  {
+    "Exam": "GEOE 123",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "STC 0020",
+    "id": 316
+  },
+  {
+    "Exam": "GEOE 353",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "RCH 307",
+    "id": 317
+  },
+  {
+    "Exam": "GEOG 101W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 318
+  },
+  {
+    "Exam": "GEOG 102",
+    "Section(s)": "081",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "",
+    "Finish": "",
+    "Location": "Online-See instructor for exam details",
+    "id": 319
+  },
+  {
+    "Exam": "GEOG 102W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 320
+  },
+  {
+    "Exam": "GEOG 209",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 2",
+    "id": 321
+  },
+  {
+    "Exam": "GEOG 271W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 322
+  },
+  {
+    "Exam": "GEOG 310",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 5",
+    "id": 323
+  },
+  {
+    "Exam": "GEOG 357",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Online-See instructor for exam details",
+    "id": 324
+  },
+  {
+    "Exam": "GEOG 459",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "MC 4063",
+    "id": 325
+  },
+  {
+    "Exam": "GER 101",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 326
+  },
+  {
+    "Exam": "GER 202",
+    "Section(s)": "081",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "Online-See instructor for exam details",
+    "id": 327
+  },
+  {
+    "Exam": "GESC 151W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 328
+  },
+  {
+    "Exam": "GLST 388W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 329
+  },
+  {
+    "Exam": "HIST 265",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "PAS 1229",
+    "id": 330
+  },
+  {
+    "Exam": "ITALST 100",
+    "Section(s)": "081",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "Online-See instructor for exam details",
+    "id": 331
+  },
+  {
+    "Exam": "KIN 100",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 6",
+    "id": 332
+  },
+  {
+    "Exam": "KIN 100L",
+    "Section(s)": "001-003",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "4:00 PM",
+    "Finish": "5:30 PM",
+    "Location": "MC 4020",
+    "id": 333
+  },
+  {
+    "Exam": "KIN 221",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 2, 4",
+    "id": 334
+  },
+  {
+    "Exam": "KIN 232",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 7, 8",
+    "id": 335
+  },
+  {
+    "Exam": "MATBUS 471",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 336
+  },
+  {
+    "Exam": "MATH 115",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4063",
+    "id": 337
+  },
+  {
+    "Exam": "MATH 117",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4060",
+    "id": 338
+  },
+  {
+    "Exam": "MATH 118",
+    "Section(s)": "001-005",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 6, 7, 8 PAC UPPER 10",
+    "id": 339
+  },
+  {
+    "Exam": "MATH 119",
+    "Section(s)": "001002",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 6, 7, 8",
+    "id": 340
+  },
+  {
+    "Exam": "MATH 127",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4061",
+    "id": 341
+  },
+  {
+    "Exam": "MATH 127",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 342
+  },
+  {
+    "Exam": "MATH 128",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4061",
+    "id": 343
+  },
+  {
+    "Exam": "MATH 128",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 344
+  },
+  {
+    "Exam": "MATH 135",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 345
+  },
+  {
+    "Exam": "MATH 136",
+    "Section(s)": "001-003",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 6",
+    "id": 346
+  },
+  {
+    "Exam": "MATH 136",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 347
+  },
+  {
+    "Exam": "MATH 137",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 348
+  },
+  {
+    "Exam": "MATH 138",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4059",
+    "id": 349
+  },
+  {
+    "Exam": "MATH 138",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 350
+  },
+  {
+    "Exam": "MATH 207",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4063",
+    "id": 351
+  },
+  {
+    "Exam": "MATH 218",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 6",
+    "id": 352
+  },
+  {
+    "Exam": "MATH 225",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4063",
+    "id": 353
+  },
+  {
+    "Exam": "MATH 228",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 354
+  },
+  {
+    "Exam": "MATH 235",
+    "Section(s)": "001-003",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 1, 3, 5",
+    "id": 355
+  },
+  {
+    "Exam": "MATH 235",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 356
+  },
+  {
+    "Exam": "MATH 237",
+    "Section(s)": "001-003",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 7, 8",
+    "id": 357
+  },
+  {
+    "Exam": "MATH 239",
+    "Section(s)": "001-004",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 1, 2, 3, 4, 5",
+    "id": 358
+  },
+  {
+    "Exam": "MATH 245",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "MC 4020",
+    "id": 359
+  },
+  {
+    "Exam": "MATH 247",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4063",
+    "id": 360
+  },
+  {
+    "Exam": "ME 101",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 4",
+    "id": 361
+  },
+  {
+    "Exam": "ME 115",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1351",
+    "id": 362
+  },
+  {
+    "Exam": "ME 123",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1351",
+    "id": 363
+  },
+  {
+    "Exam": "ME 203",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "E5 3101, 3102",
+    "id": 364
+  },
+  {
+    "Exam": "ME 212",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "E5 3101, 3102",
+    "id": 365
+  },
+  {
+    "Exam": "ME 220",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E5 3101, 3102",
+    "id": 366
+  },
+  {
+    "Exam": "ME 250",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:00 AM",
+    "Location": "E5 3101, 3102",
+    "id": 367
+  },
+  {
+    "Exam": "ME 262",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "E5 3101, 3102",
+    "id": 368
+  },
+  {
+    "Exam": "ME 303",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 3101, 3102",
+    "id": 369
+  },
+  {
+    "Exam": "ME 321",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 3101, 3102",
+    "id": 370
+  },
+  {
+    "Exam": "ME 340",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 3101, 3102",
+    "id": 371
+  },
+  {
+    "Exam": "ME 351",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 3101, 3102",
+    "id": 372
+  },
+  {
+    "Exam": "ME 354",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 3101, 3102",
+    "id": 373
+  },
+  {
+    "Exam": "ME 456",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "DWE 2402",
+    "id": 374
+  },
+  {
+    "Exam": "ME 459",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "DWE 2402",
+    "id": 375
+  },
+  {
+    "Exam": "ME 548",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "DWE 2402",
+    "id": 376
+  },
+  {
+    "Exam": "ME 559",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "DWE 2402",
+    "id": 377
+  },
+  {
+    "Exam": "ME 561",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 3101, 3102",
+    "id": 378
+  },
+  {
+    "Exam": "ME 566",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DWE 2402",
+    "id": 379
+  },
+  {
+    "Exam": "ME 572",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "E5 3101, 3102",
+    "id": 380
+  },
+  {
+    "Exam": "ME 659",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "DWE 2402",
+    "id": 381
+  },
+  {
+    "Exam": "ME 760",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "E5 3101, 3102",
+    "id": 382
+  },
+  {
+    "Exam": "MLST 306W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 383
+  },
+  {
+    "Exam": "MNS 221",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4064",
+    "id": 384
+  },
+  {
+    "Exam": "MNS 321",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4045",
+    "id": 385
+  },
+  {
+    "Exam": "MSCI 253",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 386
+  },
+  {
+    "Exam": "MSCI 261",
+    "Section(s)": "001002",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 2, 4",
+    "id": 387
+  },
+  {
+    "Exam": "MSCI 263",
+    "Section(s)": "001002",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 4",
+    "id": 388
+  },
+  {
+    "Exam": "MSCI 331",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 389
+  },
+  {
+    "Exam": "MSCI 331",
+    "Section(s)": "002",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 8",
+    "id": 390
+  },
+  {
+    "Exam": "MSCI 434",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 7",
+    "id": 391
+  },
+  {
+    "Exam": "MSCI 436",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:00 PM",
+    "Location": "DC 1350",
+    "id": 392
+  },
+  {
+    "Exam": "MSCI 452",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 4",
+    "id": 393
+  },
+  {
+    "Exam": "MTE 111",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 7",
+    "id": 394
+  },
+  {
+    "Exam": "MTE 119",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "DC 1350",
+    "id": 395
+  },
+  {
+    "Exam": "MTE 120",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "RCH 301, 302",
+    "id": 396
+  },
+  {
+    "Exam": "MTE 140",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "7:30 PM",
+    "Finish": "9:30 PM",
+    "Location": "DC 1350",
+    "id": 397
+  },
+  {
+    "Exam": "MTE 203",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E7 3343, 3353",
+    "id": 398
+  },
+  {
+    "Exam": "MTE 204",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E7 3343, 3353",
+    "id": 399
+  },
+  {
+    "Exam": "MTE 220",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E7 3343, 3353",
+    "id": 400
+  },
+  {
+    "Exam": "MTE 241",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E7 3343, 3353",
+    "id": 401
+  },
+  {
+    "Exam": "MTE 309",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E7 3343, 3353",
+    "id": 402
+  },
+  {
+    "Exam": "MTE 320",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E7 3343, 3353",
+    "id": 403
+  },
+  {
+    "Exam": "MTE 321",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "E7 3343, 3353",
+    "id": 404
+  },
+  {
+    "Exam": "MTE 325",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E7 3343, 3353",
+    "id": 405
+  },
+  {
+    "Exam": "MTHEL 131",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "7:30 PM",
+    "Finish": "9:30 PM",
+    "Location": "MC 4064",
+    "id": 406
+  },
+  {
+    "Exam": "MUSIC 100",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "CGR 1208",
+    "id": 407
+  },
+  {
+    "Exam": "MUSIC 140",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "STC 1012",
+    "id": 408
+  },
+  {
+    "Exam": "MUSIC 246",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "STC 1012",
+    "id": 409
+  },
+  {
+    "Exam": "MUSIC 353W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 410
+  },
+  {
+    "Exam": "NANO 601",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4064",
+    "id": 411
+  },
+  {
+    "Exam": "NE 217",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 7",
+    "id": 412
+  },
+  {
+    "Exam": "NE 225",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "DC 1350",
+    "id": 413
+  },
+  {
+    "Exam": "NE 226",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 7",
+    "id": 414
+  },
+  {
+    "Exam": "NE 242",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 2",
+    "id": 415
+  },
+  {
+    "Exam": "NE 281",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1350",
+    "id": 416
+  },
+  {
+    "Exam": "NE 318",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1350",
+    "id": 417
+  },
+  {
+    "Exam": "NE 332",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1350",
+    "id": 418
+  },
+  {
+    "Exam": "NE 333",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 3",
+    "id": 419
+  },
+  {
+    "Exam": "NE 343",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "RCH 110, 112",
+    "id": 420
+  },
+  {
+    "Exam": "PHIL 145",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 421
+  },
+  {
+    "Exam": "PHIL 226",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "MC 4045",
+    "id": 422
+  },
+  {
+    "Exam": "PHIL 255",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "7:30 PM",
+    "Finish": "9:30 PM",
+    "Location": "MC 4040",
+    "id": 423
+  },
+  {
+    "Exam": "PHIL 490W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 424
+  },
+  {
+    "Exam": "PHYS 112",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4040",
+    "id": 425
+  },
+  {
+    "Exam": "PHYS 112",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 426
+  },
+  {
+    "Exam": "PHYS 115",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "STC 0010",
+    "id": 427
+  },
+  {
+    "Exam": "PHYS 122",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 428
+  },
+  {
+    "Exam": "PHYS 141W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 429
+  },
+  {
+    "Exam": "PHYS 234",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 430
+  },
+  {
+    "Exam": "PHYS 267",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "STC 0010",
+    "id": 431
+  },
+  {
+    "Exam": "PHYS 270L",
+    "Section(s)": "001-004",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "MC 4061",
+    "id": 432
+  },
+  {
+    "Exam": "PHYS 358",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1351",
+    "id": 433
+  },
+  {
+    "Exam": "PHYS 363",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "7:30 PM",
+    "Finish": "9:30 PM",
+    "Location": "STC 0010",
+    "id": 434
+  },
+  {
+    "Exam": "PHYS 364",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "7:30 PM",
+    "Finish": "9:30 PM",
+    "Location": "STC 0010",
+    "id": 435
+  },
+  {
+    "Exam": "PMATH 320",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 5",
+    "id": 436
+  },
+  {
+    "Exam": "PMATH 330",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 437
+  },
+  {
+    "Exam": "PMATH 332",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 5",
+    "id": 438
+  },
+  {
+    "Exam": "PMATH 336",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4045",
+    "id": 439
+  },
+  {
+    "Exam": "PMATH 340",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 6",
+    "id": 440
+  },
+  {
+    "Exam": "PMATH 347",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "DC 1351",
+    "id": 441
+  },
+  {
+    "Exam": "PMATH 348",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4063",
+    "id": 442
+  },
+  {
+    "Exam": "PMATH 351",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4061",
+    "id": 443
+  },
+  {
+    "Exam": "PMATH 352",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 13, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4045",
+    "id": 444
+  },
+  {
+    "Exam": "PMATH 441",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4063",
+    "id": 445
+  },
+  {
+    "Exam": "PMATH 450",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4061",
+    "id": 446
+  },
+  {
+    "Exam": "PMATH 650",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4061",
+    "id": 447
+  },
+  {
+    "Exam": "PMATH 741",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4063",
+    "id": 448
+  },
+  {
+    "Exam": "PS 629",
+    "Section(s)": "081",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See instructor for exam details",
+    "id": 449
+  },
+  {
+    "Exam": "PSCI 348",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4045",
+    "id": 450
+  },
+  {
+    "Exam": "PSYCH 207",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 451
+  },
+  {
+    "Exam": "PSYCH 292",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 452
+  },
+  {
+    "Exam": "PSYCH 354R",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 453
+  },
+  {
+    "Exam": "REC 203",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4020",
+    "id": 454
+  },
+  {
+    "Exam": "RELC 103W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 455
+  },
+  {
+    "Exam": "SCI 100W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 456
+  },
+  {
+    "Exam": "SDS 250R",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 457
+  },
+  {
+    "Exam": "SDS 355R",
+    "Section(s)": "081",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 458
+  },
+  {
+    "Exam": "SDS 400R",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 459
+  },
+  {
+    "Exam": "SE 463",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 15, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "MC 4061",
+    "id": 460
+  },
+  {
+    "Exam": "SFM 201",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4045",
+    "id": 461
+  },
+  {
+    "Exam": "SOC 210",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "MC 4020",
+    "id": 462
+  },
+  {
+    "Exam": "SPAN 101W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 463
+  },
+  {
+    "Exam": "STAT 230",
+    "Section(s)": "001-003",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 1, 2, 3, 4",
+    "id": 464
+  },
+  {
+    "Exam": "STAT 231",
+    "Section(s)": "001-004",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "PAC 1, 2, 3, 4, 5, 6",
+    "id": 465
+  },
+  {
+    "Exam": "STAT 330",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "M3 1006",
+    "id": 466
+  },
+  {
+    "Exam": "STAT 331",
+    "Section(s)": "001002",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "PAC 7, 8",
+    "id": 467
+  },
+  {
+    "Exam": "STAT 332",
+    "Section(s)": "001002",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "M3 1006",
+    "id": 468
+  },
+  {
+    "Exam": "STAT 333",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "M3 1006",
+    "id": 469
+  },
+  {
+    "Exam": "STAT 334",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "MC 4061",
+    "id": 470
+  },
+  {
+    "Exam": "STAT 337",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC 8",
+    "id": 471
+  },
+  {
+    "Exam": "STAT 341",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "PAC 7, 8",
+    "id": 472
+  },
+  {
+    "Exam": "STAT 362W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 473
+  },
+  {
+    "Exam": "STAT 371",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "DC 1351",
+    "id": 474
+  },
+  {
+    "Exam": "STAT 430",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "DC 1350",
+    "id": 475
+  },
+  {
+    "Exam": "STAT 431",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 9, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "PAC UPPER 9, 10",
+    "id": 476
+  },
+  {
+    "Exam": "STAT 830",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "2:30 PM",
+    "Location": "DC 1350",
+    "id": 477
+  },
+  {
+    "Exam": "SWREN 250R",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 478
+  },
+  {
+    "Exam": "SYDE 112",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 6006, 6008",
+    "id": 479
+  },
+  {
+    "Exam": "SYDE 114",
+    "Section(s)": "001",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E5 6006, 6008",
+    "id": 480
+  },
+  {
+    "Exam": "SYDE 162",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 6006, 6008",
+    "id": 481
+  },
+  {
+    "Exam": "SYDE 192",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E5 6006, 6008",
+    "id": 482
+  },
+  {
+    "Exam": "SYDE 223",
+    "Section(s)": "001",
+    "Day": "Wednesday",
+    "Date": "August 7, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:00 PM",
+    "Location": "E5 6006, 6008",
+    "id": 483
+  },
+  {
+    "Exam": "SYDE 252",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E7 3343, 3353",
+    "id": 484
+  },
+  {
+    "Exam": "SYDE 311",
+    "Section(s)": "001",
+    "Day": "Tuesday",
+    "Date": "August 6, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E5 6004, 6006, 6008",
+    "id": 485
+  },
+  {
+    "Exam": "SYDE 351",
+    "Section(s)": "001",
+    "Day": "Friday",
+    "Date": "August 2, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E5 6004, 6006, 6008",
+    "id": 486
+  },
+  {
+    "Exam": "SYDE 351",
+    "Section(s)": "002",
+    "Day": "Wednesday",
+    "Date": "August 14, 2024",
+    "Start": "12:30 PM",
+    "Finish": "3:00 PM",
+    "Location": "E7 3343, 3353",
+    "id": 487
+  },
+  {
+    "Exam": "SYDE 381",
+    "Section(s)": "001",
+    "Day": "Thursday",
+    "Date": "August 8, 2024",
+    "Start": "9:00 AM",
+    "Finish": "11:30 AM",
+    "Location": "E5 6004, 6006, 6008",
+    "id": 488
+  },
+  {
+    "Exam": "SYDE 383",
+    "Section(s)": "001",
+    "Day": "Monday",
+    "Date": "August 12, 2024",
+    "Start": "4:00 PM",
+    "Finish": "6:30 PM",
+    "Location": "E5 6004, 6006, 6008",
+    "id": 489
+  },
+  {
+    "Exam": "THPERF 386",
+    "Section(s)": "081",
+    "Day": "Saturday",
+    "Date": "August 10, 2024",
+    "Start": "7:30 PM",
+    "Finish": "10:00 PM",
+    "Location": "Confirm individual schedule in Odyssey",
+    "id": 490
+  },
+  {
+    "Exam": "UU 150W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 491
+  },
+  {
+    "Exam": "UX 100W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 492
+  },
+  {
+    "Exam": "UX 103W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 493
+  },
+  {
+    "Exam": "UX 306W",
+    "Section(s)": "",
+    "Day": "",
+    "Date": "",
+    "Start": "",
+    "Finish": "",
+    "Location": "See WLU Final Exam Schedule",
+    "id": 494
+  }
+]

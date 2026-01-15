@@ -1,0 +1,228 @@
+.exam-info-container {
+  padding: 5%;
+}
+
+.exam-info-card {
+  position: relative;
+  color: #2e2e2f;
+  cursor: move;
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
+  margin-bottom: 1rem;
+  border: 3px dashed transparent;
+  max-width: 750px;
+}
+
+.exam-info-card:hover {
+  box-shadow: rgba(99, 99, 99, 0.3) 0px 2px 8px 0px;
+  border-color: rgba(162, 179, 207, 0.2) !important;
+}
+
+.exam-info-card p {
+  font-size: 15px;
+  margin: 1.2rem 0;
+}
+
+.tag {
+  border-radius: 100px;
+  padding: 4px 13px;
+  font-size: 1rem;
+  color: #ffffff;
+  background-color: #000000;
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.viewer span {
+  height: 30px;
+  width: 30px;
+  background-color: rgb(28, 117, 219);
+  margin-right: -10px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  display: grid;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  padding: 2px;
+}
+
+.viewer span svg {
+  stroke: #fff;
+}
+
+/* for the loader */
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  /* Adjust this based on your layout */
+  background-color: #f0f0f0;
+  /* Optional: Background color for contrast */
+}
+
+.spinner {
+  width: 3.25em;
+  height: 3.25em;
+  transform-origin: center;
+  animation: rotate4 2s linear infinite;
+}
+
+circle {
+  fill: none;
+  stroke: hsl(214, 97%, 59%);
+  stroke-width: 2;
+  stroke-dasharray: 1, 200;
+  stroke-dashoffset: 0;
+  stroke-linecap: round;
+  animation: dash4 1.5s ease-in-out infinite;
+}
+
+@keyframes rotate4 {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes dash4 {
+  0% {
+    stroke-dasharray: 1, 200;
+    stroke-dashoffset: 0;
+  }
+
+  50% {
+    stroke-dasharray: 90, 200;
+    stroke-dashoffset: -35px;
+  }
+
+  100% {
+    stroke-dashoffset: -125px;
+  }
+}
+
+.exam-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 0.75rem;
+  background-color: white;
+  width: 450px;
+  /* height: 500px; */
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, .1),
+    0 2px 4px -2px rgba(0, 0, 0, .1);
+  margin: 1rem;
+}
+
+.exam-title-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-clip: border-box;
+  border-radius: 0.75rem;
+  width: auto;
+  padding: 1rem;
+  margin: 1.5rem 1rem 1rem 1rem;
+  height: fit-content;
+  background-color: rgb(227, 223, 223);
+  border: 2px, solid black;
+  font-family: 'overpass', sans-serif;
+}
+
+.exam-title {
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  color: rgb(0, 0, 0);
+}
+
+.exam-info {
+  border: none;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+/* .title {
+    color: rgb(38 50 56);
+    letter-spacing: 0;
+    line-height: 1.375;
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  } */
+
+.exam-tag {
+  font-weight: 300;
+  font-size: .75rem;
+  display: block;
+}
+
+.exam-info-line {
+  display: flex;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.exam-info-icon {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2.5rem;
+}
+
+.exam-info-description {
+  font-size: 1.25rem;
+  font-family: 'Overpass', sans-serif;
+}
+
+.exam-card-footer {
+  padding: 0.75rem;
+  margin: 0 0 1rem 0;
+  text-align: center;
+}
+
+.google-event-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1rem;
+  font-family: 'overpass', sans-serif;
+  padding: 0.75rem 1.5rem;
+  color: #000000;
+  background-color: rgb(227, 223, 223);
+  border-radius: 0.5rem;
+  border: 2px, solid, black;
+  letter-spacing: 1px;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.google-event-button:hover {
+  cursor: pointer;
+}
+
+.exam-inline-images {
+  display: flex;
+  align-items: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-left: 1rem;
+}
