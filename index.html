@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UW Exam Scheduler</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="container">
+        <header>
+            <h1>UW Exam Scheduler</h1>
+            <p class="subtitle">Search and sync University of Waterloo exam schedules to your calendar</p>
+            <div class="tech-stack">
+                <span class="tech-badge">React</span>
+                <span class="tech-badge">Express</span>
+                <span class="tech-badge">Node.js</span>
+                <span class="tech-badge">Python</span>
+                <span class="tech-badge">Google OAuth</span>
+            </div>
+            <a href="https://github.com/ryan-seto/Exam-Scheduler" target="_blank" class="github-link">
+                View on GitHub →
+            </a>
+        </header>
+
+        <section class="intro">
+            <h2>About</h2>
+            <p>
+                UW Exam Scheduler is a full-stack web application designed for University of Waterloo students
+                to quickly search for their final exam details and sync them directly to their Google Calendar.
+                Instead of manually searching through exam schedule PDFs and creating calendar events,
+                students can find their exams in seconds and export them with one click.
+            </p>
+            <p>
+                The application scrapes official exam schedule data from the University of Waterloo website,
+                processes it into a searchable format, and serves it through a clean REST API. The React
+                frontend provides an intuitive search interface with real-time filtering as users type.
+            </p>
+            <h3>How It Works</h3>
+            <p>
+                Students sign in with their Google account, search for their course codes (e.g., "CS 246"),
+                and view complete exam details including date, time, and location. With one click, they can
+                create a Google Calendar event with all the exam information pre-filled, ensuring they never
+                miss an important exam.
+            </p>
+        </section>
+
+        <div class="notice">
+            <strong>Note:</strong> This application is currently non-functional. The University of Waterloo updated their system to require authentication for accessing exam schedule data, which broke the public data scraping functionality.
+        </div>
+
+        <section class="features">
+            <h2>Key Features</h2>
+            <ul>
+                <li><strong>Instant Search:</strong> Real-time course code search with results appearing as you type</li>
+                <li><strong>Google Calendar Integration:</strong> One-click export of exam details to your personal calendar</li>
+                <li><strong>OAuth Authentication:</strong> Secure Google sign-in for calendar access</li>
+                <li><strong>Automated Data Pipeline:</strong> Python scripts scrape and process official UW exam schedules</li>
+            </ul>
+        </section>
+
+        <section class="media">
+            <h2>Screenshots</h2>
+            <div class="media-grid">
+                <div class="media-item">
+                    <img src="screenshots/Exam Scheduler .jpg" alt="Home Page" loading="lazy" class="zoomable">
+                    <p class="caption">Home Page - Search for courses and view instructions</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Image Modal -->
+        <div id="imageModal" class="modal">
+            <span class="modal-close">&times;</span>
+            <img class="modal-content" id="modalImage">
+        </div>
+
+        <section class="architecture">
+            <h2>Technical Architecture</h2>
+            <h3>Frontend</h3>
+            <ul>
+                <li>React 18 with Vite for fast development and HMR</li>
+                <li>React Router for client-side navigation</li>
+                <li>Google API client (gapi) for Calendar integration</li>
+                <li>Responsive CSS with custom component styling</li>
+            </ul>
+            <h3>Backend</h3>
+            <ul>
+                <li>Express.js server with RESTful API endpoints</li>
+                <li>CORS-enabled for frontend communication</li>
+                <li>JSON-based exam data storage</li>
+            </ul>
+            <h3>Data Pipeline</h3>
+            <ul>
+                <li>Python scripts using Pandas for HTML table parsing</li>
+                <li>Automated scraping from official UW exam schedule pages</li>
+                <li>Data transformation and unique ID generation</li>
+            </ul>
+        </section>
+
+        <section class="highlights">
+            <h2>Development Highlights</h2>
+            <ul>
+                <li>Built complete OAuth flow for secure Google Calendar access</li>
+                <li>Implemented fuzzy search with debouncing for responsive user experience</li>
+                <li>Created reusable modal components for exam details and confirmations</li>
+                <li>Designed alert system for user feedback on calendar sync operations</li>
+                <li>Developed Python data pipeline to parse and transform exam schedule HTML tables</li>
+            </ul>
+        </section>
+    </main>
+
+    <script>
+        // Image modal zoom functionality
+        const modal = document.getElementById('imageModal');
+        const modalImg = document.getElementById('modalImage');
+        const zoomableImages = document.querySelectorAll('.zoomable');
+        const closeBtn = document.querySelector('.modal-close');
+
+        zoomableImages.forEach(img => {
+            img.style.cursor = 'pointer';
+            img.addEventListener('click', function() {
+                modal.style.display = 'flex';
+                modalImg.src = this.src;
+            });
+        });
+
+        closeBtn.addEventListener('click', function() {
+            modal.style.display = 'none';
+        });
+
+        modal.addEventListener('click', function(e) {
+            if (e.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && modal.style.display === 'flex') {
+                modal.style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>
